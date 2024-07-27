@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MaasHesabiTestSuite">
+    <test name="MaasHesabiTests">
+        <classes>
+            <class name="org.example.Maas_HesabiTest"/>
+        </classes>
+    </test>
+</suite>
